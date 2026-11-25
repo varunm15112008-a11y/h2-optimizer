@@ -1,6 +1,6 @@
 # H2 Optimizer — Green Hydrogen Electrolyser Scheduler
 
-**Live App:** [https://your-name-h2-optimizer.streamlit.app](https://h2-optimizer-ltjei4qrjnihuebve8xf25.streamlit.app) *(replace with your Streamlit Community Cloud URL after deployment)*
+**Live App:** [https://your-name-h2-optimizer.streamlit.app](https://h2-optimizer-ltjei4qrjnihuebve8xf25.streamlit.app) 
 
 > **Honesty Statement:** All weather, plant, tariff, and grid emission data in this prototype are simulated; the forecasting and MILP optimisation pipeline is structured to plug directly into real plant SCADA and day-ahead grid feeds.
 
